@@ -79,6 +79,7 @@ public class Q1Test {
                          return "Traversal 1 - " + label[0] + ", Traversal 2 - " + label[1] + ", Traversal 3 - " + label[2];
                     }
                }
+               //tp COMMIT MORE
           }
           return "Invalid traversals";
      }
